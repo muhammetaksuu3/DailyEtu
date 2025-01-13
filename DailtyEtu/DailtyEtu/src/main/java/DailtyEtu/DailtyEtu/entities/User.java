@@ -17,7 +17,7 @@ public class User {
 
     @Id
     @Column(name = "userId")
-    private int userId;
+    private int userid;
 
     @Column(name = "email")
     private String email;
